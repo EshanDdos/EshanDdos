@@ -28,7 +28,7 @@
 <a href="https://instagram.com/3irdeyeguy_giantparanoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="3irdeyeguy_giantparanoid" height="30" width="40" /></a>
 </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-iKPYdUtcPusFnEeIYEWwV5ndIQzeaNl/view?usp=sharing](https://drive.google.com/file/d/1-iKPYdUtcPusFnEeIYEWwV5ndIQzeaNl/view?usp=sharing)
+🌎Know about my experiences [https://drive.google.com/file/d/1-iKPYdUtcPusFnEeIYEWwV5ndIQzeaNl/view?usp=sharing](https://drive.google.com/file/d/1-iKPYdUtcPusFnEeIYEWwV5ndIQzeaNl/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
