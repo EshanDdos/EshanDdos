@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshanddos" alt="eshanddos" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/toxiceshan" target="blank"><img src="https://img.shields.io/twitter/follow/toxiceshan?logo=twitter&style=for-the-badge" alt="toxiceshan" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a85c05886e6541625c3a68d9b980a710aff0594afe67d17878e7c42f6d692b48/68747470733a2f2f632e74656e6f722e636f6d2f6e484267454b367a45514d414141416a2f6361742d677261792e676966">
+
 - 🔭 I’m currently working in **my home**
 
 - 🌱 I’m currently learning **Python & Networking**
