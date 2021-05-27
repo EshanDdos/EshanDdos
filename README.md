@@ -1,5 +1,3 @@
-[![MasterHead]![16179715_1792017684453577_1579516093455537946_o](https://user-images.githubusercontent.com/65530543/119848247-7c03f600-bf2d-11eb-8fd6-f7c0f700d582.jpg)
-]
 <h1 align="center">Hi 👋, I'm Nusrat Doula Eshan</h1>
 <h3 align="center">I aim to build my career as a successful IT & Telecom professional and to participate in advanced research in the concerned fields.</h3>
 
@@ -11,14 +9,14 @@
 
 - 🔭 I’m currently working in **my home**
 
+<img align="right" alt="Coding" width="400" src=![68747470733a2f2f632e74656e6f722e636f6d2f6e484267454b367a45514d414141416a2f6361742d677261792e676966](https://user-images.githubusercontent.com/65530543/119851737-79ef6680-bf30-11eb-8a96-3f368d797528.gif)>
+
 - 🌱 I’m currently learning **Python & Networking**
 
 - 👯 I’m looking to collaborate with **New IT Geeks**
 
 - 🤝 I’m looking to help for **an Internship where i can learn from zero**
 
-![68747470733a2f2f632e74656e6f722e636f6d2f6e484267454b367a45514d414141416a2f6361742d677261792e676966](https://user-images.githubusercontent.com/65530543/119846855-4d395000-bf2c-11eb-9490-ec74f62e1400.gif)
-- 
 - 📫 How to reach me **ndoulaeshan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-iKPYdUtcPusFnEeIYEWwV5ndIQzeaNl/view?usp=sharing](https://drive.google.com/file/d/1-iKPYdUtcPusFnEeIYEWwV5ndIQzeaNl/view?usp=sharing)
