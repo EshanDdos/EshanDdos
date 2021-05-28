@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nusrat Doula Eshan</h1>
-<h3 align="center">I aim to build my career as a successful IT & Telecom professional and to participate in advanced research in the concerned fields.</h3>
+<h3 align="center">I aim to build my career as a successful IT & Network professional and to participate in advanced research in the concerned fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshanddos&label=Profile%20views&color=0e75b6&style=flat" alt="eshanddos" /> </p>
 
