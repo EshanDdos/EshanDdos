@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate with **New IT Geeks**
 
-- 🤝 I’m looking to help for **an Internship where i can learn from zero**
+- 🤝 I’m looking to help for **an opportunity where i can learn infinity**
 
 - 📫 How to reach me?? **ndoulaeshan@gmail.com**
 
