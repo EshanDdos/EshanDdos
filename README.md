@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking to help for **an Internship where i can learn from zero**
 
-- 📫 How to reach me **ndoulaeshan@gmail.com**
+- 📫 How to reach me?? **ndoulaeshan@gmail.com**
 
 - ⚡ Fun fact **I'm lazy.**
 
